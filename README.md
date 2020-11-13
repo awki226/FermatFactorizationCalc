@@ -3,5 +3,5 @@
 A simple Fermat factorization calculator prompts user for numbers.
 ### <h2> How to compile
 
-      $python3 Fermat
+      $python3 FermatFactor.py
     
